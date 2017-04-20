@@ -11,4 +11,4 @@ SOLID: By structuring the code's design to follow the SOLID principle it allows 
 HTTP: By making a low level Java WebServer that handles the protocol directly using channels it demonstrates a thorough understanding of how HTTP actually works. By reading the data and responding appropriately to it I gained insight of how an HTTP Request is structured and how the server responds. 
 
 # How to
-Take the jar and run it on the command line (haven't made a gui for it). Initially it creates a folder called "htdocs" located in the same directory the jar is in, then the command line should exit. After this develop or insert your html/css/js files into the folder and then restart the server. Now connect to it using your web browser. 
+Take the jar and run it on the command line (haven't made a gui for it). Initially it creates a folder called "htdocs" located in the same directory the jar is in, then the command line should exit. After this develop or insert your html/css/js files into the folder and then restart the server. Now connect to http://localhost:1337/<fileLocation> using your web browser. 
